@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.main{
+    margin: 1rem 0 5rem 28rem;
+    border: 1px solid silver ;
+    height: 26rem;
+    width: 25rem;
+    background-color: white;
+}
+.name img{
+   /* text-align: center;
+   justify-content: center; */
+   margin-top:2rem;
+   margin-bottom: 3rem;
+   margin-left: 4rem;
+   height: 5rem;
+   width: 15rem;
+
+}
+
+.phone_email{
+    font-size: 1rem; 
+    text-align: left;
+    justify-content: center;
+    margin-top:-10rem;
+    margin-bottom:1rem;
+    margin-left: 2rem;
+    height: 2.5rem;
+    width: 20rem;  
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 0.3rem;
+}
+/* .phone_email:hover{
+    border: 1px solid black;
+    border-radius: 0.3rem;
+} */
+
+.password{
+    font-size: 1rem; 
+    text-align: left;
+    justify-content: center;
+     margin-bottom:1rem;  
+    margin-left: 2rem;
+    height: 2.5rem;
+    width: 20rem;  
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 0.3rem;
+}
+
+.btn{
+    font-size: 1rem; 
+    text-align: center;
+    justify-content: center;
+     margin-bottom:1rem;  
+    margin-left: 2rem;
+    height: 2rem;
+    width: 21rem;  
+    color: white; 
+    border: 0;
+    border-radius: 0.3rem;
+    background-color:rgb(155, 202, 241) ;  
+}
+
+.partition{
+    font-size: 0.9rem; 
+    text-align: center;
+    justify-content: center;
+     margin-bottom:1rem;  
+     color: rgb(122, 122, 122);
+    font-weight: bold;
+}
+.facebook{
+    display: flex;
+    font-size: 0.9rem; 
+    text-align: center;
+    justify-content: center;
+     margin-bottom:1rem;  
+     color:#02193f;
+     font-weight: bolder;
+     margin-top: 1rem;
+     cursor: pointer;
+    
+}
+span2{
+    margin-left: 0.5rem;
+    color: #053583;
+}
+.facebook img{
+    font-size: 1rem; 
+    text-align: center;
+    justify-content: center;
+     margin-bottom:1rem;  
+    margin-left: 2rem;
+    height: 1rem;
+    width: 1rem; 
+
+}
+
+.forget{
+    font-size: 0.8rem; 
+    text-align: center;
+    justify-content: center;
+    margin-left: 2rem;
+    margin-top: -1rem;
+    margin-bottom: -3rem;
+    color: blue;
+    cursor: pointer;  
+}
+
+.signup{
+    margin: -4em 0 5rem 28rem;
+    border: 1px solid silver ;
+    height: 4rem;
+    width: 25rem;
+    justify-content: center;
+    text-align: center;
+    background-color: white;
+}
+.signup1{
+    margin-top: 1.5rem;
+}
+ span{
+     margin-top: 3rem;
+ }
+
+ a{
+     text-decoration: none;
+     color:  #38b7ce;
+     font-weight: bolder;
+     cursor: pointer;
+ }
+
+ .app{
+    margin: -4rem 0 5rem 38rem;
+    font-size: 14px; 
+ }
+ .image{
+     display: flex;
+     margin: -4rem 0 3rem -1.5rem;
+     justify-content: center;
+     text-align: center;
+
+ }
+
+ .image1 img{
+     height: 3rem;
+     width: 10rem;
+     margin-right: 1rem;
+ }
+
+ .image2 img{
+    height: 1rem;
+    width: 1rem;
+}
